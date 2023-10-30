@@ -1,0 +1,208 @@
+[29-Aug-2022 17:15:16 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[29-Aug-2022 17:15:17 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[14-Oct-2022 08:42:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:42:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:42:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:42:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:42:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:17 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:19 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:19 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:28 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[14-Oct-2022 08:43:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:46 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:50:53 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:52:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[18-Oct-2022 08:52:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:28:59 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:29:00 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:29:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[23-Oct-2022 09:29:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[27-Oct-2022 11:06:50 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_barang.php on line 373
+[13-Nov-2022 09:14:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:14:59 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:00 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:11 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:11 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:37 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[13-Nov-2022 09:15:37 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[01-Dec-2022 08:33:47 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[01-Dec-2022 08:33:47 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[01-Dec-2022 08:33:48 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[01-Dec-2022 08:34:01 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[01-Dec-2022 08:35:39 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[01-Dec-2022 16:42:52 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[06-Dec-2022 09:20:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:34 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:43 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[06-Dec-2022 09:20:46 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 309
+[29-Dec-2022 22:39:42 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[29-Dec-2022 22:39:43 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[29-Dec-2022 22:39:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[07-Jan-2023 09:35:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:37 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:38 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:39 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:39 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:35:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:00 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:07 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:36:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:27 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:28 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[07-Jan-2023 09:38:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 170
+[21-Feb-2023 11:57:07 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[21-Feb-2023 11:57:07 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[21-Feb-2023 11:57:08 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[21-Feb-2023 11:57:11 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[21-Feb-2023 11:57:29 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[03-Apr-2023 14:04:59 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 575
+[03-Apr-2023 14:05:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 575
+[03-Apr-2023 14:05:03 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Barang.php on line 575
+[12-Apr-2023 14:02:02 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1277
+[12-Apr-2023 15:38:41 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1277
+[16-Apr-2023 15:42:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on boolean in /home/alkindi1/public_html/Pusat/application/controllers/Penjualan.php on line 2834
+[16-Apr-2023 15:42:10 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/alkindi1/public_html/Pusat/system/libraries/Session/drivers/Session_database_driver.php on line 355
+[16-Apr-2023 15:42:25 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[03-May-2023 13:11:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:32 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:33 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:34 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:34 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:45 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:46 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:46 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:47 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:49 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:50 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:51 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[03-May-2023 13:11:51 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1222
+[11-May-2023 10:43:07 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[11-May-2023 10:43:07 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[11-May-2023 10:43:07 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[11-May-2023 10:43:12 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[10-Jul-2023 13:57:59 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[10-Jul-2023 13:58:05 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[10-Jul-2023 13:58:08 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 12:49:23 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 12:50:05 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 12:52:55 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 12:53:15 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 14:54:01 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 14:54:03 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 14:54:17 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 14:54:20 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 15:00:05 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 15:00:27 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 15:00:54 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[25-Jul-2023 15:01:08 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: pj_ci_sessions) in /home1/alkindi1/public_html/Pusat/system/libraries/Session/Session.php on line 140
+[05-Sep-2023 14:23:26 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:23:32 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:23:33 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:24:14 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:24:23 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:24:26 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:24:41 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:25:26 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:25:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:35:46 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/laporan_rekap_data_pasien_klinik.php on line 1
+[05-Sep-2023 14:37:26 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:37:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:37:54 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:38:15 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:38:17 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:38:27 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:38:34 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:39:22 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:39:24 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 14:39:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 15:20:54 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 61
+[05-Sep-2023 15:21:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 61
+[05-Sep-2023 15:21:59 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 61
+[05-Sep-2023 15:24:54 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 62
+[05-Sep-2023 15:26:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 62
+[05-Sep-2023 15:37:46 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home1/alkindi1/public_html/Pusat/application/views/pembelian/datasupplier.php on line 1
+[05-Sep-2023 15:54:02 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:55:55 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:55:57 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:55:59 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:56:49 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:57:19 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:57:21 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:57:26 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 165
+[05-Sep-2023 15:58:47 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:58:55 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:58:57 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:58:58 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:59:01 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:59:26 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 15:59:31 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 16:00:42 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 16:01:36 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 16:02:00 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[05-Sep-2023 16:03:58 Asia/Jakarta] PHP Fatal error:  Call to a member function uri() on null in /home1/alkindi1/public_html/Pusat/application/controllers/Pembelian.php on line 156
+[14-Sep-2023 16:54:42 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home1/alkindi1/public_html/Pusat/application/models/M_penjualan_master.php on line 1277
